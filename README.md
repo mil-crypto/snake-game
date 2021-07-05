@@ -1,3 +1,3 @@
-# supreme-octo-palm-tree
+#  snake game
 
 simple snake game
